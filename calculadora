@@ -2,6 +2,8 @@
 
 number_1 = input('Enter your first number: ')
 number_2 = input('Enter your second number: ')
+number_3 = input('Enter your third number: ')
 
 Enter your first number: 5
 Enter your second number: 7
+Enter your third number: 2
